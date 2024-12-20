@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mahmoud Alaa!
 💻 Front-End Developer | 💡 Problem Solver
 
-I’m passionate about crafting web applications that solve real-world problems and enhance people's lives. With expertise in modern web technologies and a strong focus on user-friendly designs, I aim to create digital experiences that leave a lasting impact.
+Front-End developer passionate about crafting web applications that solve real-world problems and help people to have better life. With a passion for modern web technologies, I aim to evolve into a guide leader to help other developers grow their careers
 
 
 
