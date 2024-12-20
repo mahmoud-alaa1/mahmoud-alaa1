@@ -13,7 +13,8 @@ I’m passionate about crafting web applications that solve real-world problems 
 ## 🌟 Let's Connect!
 
 📧 Email: [mahmoud.alaa.dev1@gmail.com](mailto:mahmoud.alaa.dev1@gmail.com)
-💼 LinkedIn: [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/linkedin.svg)](https://www.linkedin.com/in/your-profile/)
+
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahmoudalaa2/)
 
 
 
