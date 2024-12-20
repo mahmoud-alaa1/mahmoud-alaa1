@@ -14,7 +14,7 @@ I’m passionate about crafting web applications that solve real-world problems 
 
 📧 Email: [mahmoud.alaa.dev1@gmail.com](mailto:mahmoud.alaa.dev1@gmail.com)
 
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahmoudalaa2/)
+<img src="https://github.com/user-attachments/assets/3f55a9e7-b0e4-49e3-abf0-6a79381153dd" alt="LinkedIn Logo" width="15" height="15"> LinkedIn: [mahmoudalaa2](https://www.linkedin.com/in/mahmoudalaa2/)
 
 
 
